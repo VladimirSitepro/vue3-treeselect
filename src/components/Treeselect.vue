@@ -34,7 +34,7 @@ export default {
 </script>
 
 <script setup>
-import { computed, defineProps, reactive, watch, defineEmits, getCurrentInstance, ref, nextTick, onMounted, provide, useSlots, toRaw } from 'vue';
+import { computed, reactive, watch, defineEmits, ref, nextTick, onMounted, provide, useSlots, toRaw } from 'vue';
 import fuzzysearch from 'fuzzysearch'
 import {
   warning,

@@ -65,6 +65,7 @@
 
 <script>
 import Treeselect from "@/components/Treeselect.vue";
+// import Treeselect from "../dist/r2rka-vue3-treeselect.mjs";
 import { toRaw } from "vue";
 
 export default {
